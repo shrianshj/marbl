@@ -1,5 +1,4 @@
-Here are some photos of my build:
-<img width="1440" height="877" alt="Screenshot 2026-10-17 at 3 48 26 PM" src="https://github.com/user-attachments/assets/cd91544a-205c-4737-b3c1-5295f3b49185" />
-<img width="2529" height="1292" alt="Screenshot 2026-10-17 at 4 26 41 PM" src="https://github.com/user-attachments/assets/e958484d-18f4-4742-86dc-91db41dc6ba0" />
-
-it was so fun making this. I will 100% be using this software in school for my engineering class!
+<img width="806" height="530" alt="imlosingmymarbles" src="https://github.com/user-attachments/assets/ac6ce84d-51c3-4b54-adcc-7c03b52e8d95" />
+<img width="1165" height="624" alt="closeup" src="https://github.com/user-attachments/assets/5114c591-98b5-4bbc-a84a-6c7f40fff4f6" />
+<img width="1165" height="624" alt="track" src="https://github.com/user-attachments/assets/f4502bca-5bdc-437c-9f3d-1353bd0f3378" />
+<img width="1165" height="624" alt="technical" src="https://github.com/user-attachments/assets/1191a956-9733-44b0-b1cc-ca4ceb5e838e" />
