@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-17 – I tried doing it but it was really hard. Eventually I got through it although I wasnt rly happy. So then I just completely started over, adding almost another hour. I hated cad. surely but slowly, I g](#2026-10-17-i-tried-doing-it-but-it-was-really-hard-eventuall)
-2. [2026-10-17 – ![Screenshot 2026-10-17 at 12.17.59 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0af](#2026-10-17-screenshot-2026-10-17-at-121759-pmhttpshalflifeha)
+2. [2026-10-17 – ![cad](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0afc8.png)](#2026-10-17-cadhttpshalflifehackclub-assetscomhackclub-half-l)
 3. [2026-10-17 – I started by adding another track. That took me a while, as I had to constantly readjust my track to make sure it didn't intersect with my 1st track.](#2026-10-17-i-started-by-adding-another-track-that-took-me-a-)
 
 ## Design
@@ -36,11 +36,11 @@ I tried doing it but it was really hard. Eventually I got through it although I 
 
 ![Screenshot 2026-10-17 at 9.58.04 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/7b39b94b846bd7bda2972ad6e78903438e9dc1f2c9fa3f1ce22b50b659671034.png)
 
-### 2026-10-17 – ![Screenshot 2026-10-17 at 12.17.59 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0af
+### 2026-10-17 – ![cad](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0afc8.png)
 
 **2.32h**
 
-![Screenshot 2026-10-17 at 12.17.59 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0afc8.png)
+![cad](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0afc8.png)
 
 honestly, for my first time even TOUCHING CAD, im rly happy. I didn't think i would be able to make something like this in a day!
 sure it took me a while to learn but....it feels so cool! def gonna need more practice as I go on, but im happy with my progress
