@@ -161,7 +161,6 @@ i spent such a long time on it...
 you gotta be kidding me
 lets try again...I bet i can make this work
 
-what was next? oh yeah, a plinko board!
 gosh im so tired
 lets make this look better
 then im FINALLY DONE (for now)
