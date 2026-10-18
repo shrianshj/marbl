@@ -30,11 +30,11 @@ I tried doing it but it was really hard. Eventually I got through it although I 
 
 ![first](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/0545bcca154382756919ffd72caa4dced8c323a708e610456ed1b7c93678615c.png)
 
-![Screenshot 2026-10-17 at 11.36.25 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/37f24771385ec75f3ddc73353b53598b3629b12d4d9079b6a158492f5ba55dee.png)
+![first (1)](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/37f24771385ec75f3ddc73353b53598b3629b12d4d9079b6a158492f5ba55dee.png)
 
-![Screenshot 2026-10-17 at 11.08.46 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/10ad51b5fe9fd22dd4fb3b965eb34da96bd2faba74683f144e6d313a74a5e9a2.png)
+![first (2)](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/10ad51b5fe9fd22dd4fb3b965eb34da96bd2faba74683f144e6d313a74a5e9a2.png)
 
-![Screenshot 2026-10-17 at 9.58.04 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/7b39b94b846bd7bda2972ad6e78903438e9dc1f2c9fa3f1ce22b50b659671034.png)
+![first (3)](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/7b39b94b846bd7bda2972ad6e78903438e9dc1f2c9fa3f1ce22b50b659671034.png)
 
 ### 2026-10-17 – ![cad](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/36ab0b62f8575656087c12a1eb9768d00807dfab5110ae68dd619989b4b0afc8.png)
 
