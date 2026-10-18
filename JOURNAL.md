@@ -26,9 +26,9 @@
 
 I tried doing it but it was really hard. Eventually I got through it although I wasnt rly happy. So then I just completely started over, adding almost another hour. I hated cad. surely but slowly, I got it!
 
-![Screenshot 2026-10-17 at 11.39.37 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/9f797d22120e59323a078d9e42815a497c5b3b954ae94d37b22e9001aca06ebe.png)
+![firsttime](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/9f797d22120e59323a078d9e42815a497c5b3b954ae94d37b22e9001aca06ebe.png)
 
-![Screenshot 2026-10-17 at 11.38.39 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/0545bcca154382756919ffd72caa4dced8c323a708e610456ed1b7c93678615c.png)
+![first](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/0545bcca154382756919ffd72caa4dced8c323a708e610456ed1b7c93678615c.png)
 
 ![Screenshot 2026-10-17 at 11.36.25 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/37f24771385ec75f3ddc73353b53598b3629b12d4d9079b6a158492f5ba55dee.png)
 
