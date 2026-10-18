@@ -64,17 +64,17 @@ added a "landing zone" for the marble at the end
 I started by adding another track. That took me a while, as I had to constantly readjust my track to make sure it didn't intersect with my 1st track.
 after that it looked like this:
 
-![Screenshot 2026-10-17 at 3.29.47 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/66ea8e254e10a5563443c7277b0e775bc7d0899910637d8897fc33c0faeb18ed.png)
+![marblee](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/66ea8e254e10a5563443c7277b0e775bc7d0899910637d8897fc33c0faeb18ed.png)
 
 then I added supports:
 
-![Screenshot 2026-10-17 at 3.31.07 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/81bf88c153b417787ffe2c510fa556a38f3412136024bbc122bf3b06c9d5789e.png)
+![marble](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/81bf88c153b417787ffe2c510fa556a38f3412136024bbc122bf3b06c9d5789e.png)
 
 starting to come along pretty nicely!
 
 then I spent a LONG time tuning the looks. Adding a flag took an embarrisingly long time...i didn't know how to make a triangle okay!!
 
-![Screenshot 2026-10-17 at 3.48.26 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/d693ebc83d7f4fd683e9e23040ca42ca555eeb8c9c5ad5fe707b70e2bbf85673.png)
+![yeahhflag](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/d693ebc83d7f4fd683e9e23040ca42ca555eeb8c9c5ad5fe707b70e2bbf85673.png)
 
 Okay, now im gnna add a funnel. the guide had a tutorial im pretty sure...
 update: 1 hr later:
@@ -82,7 +82,7 @@ I FINALLY GOT IT
 YESSSSS
 that was complecated bc I had to experiment with the shapes and dimensions until it finally worked. CAD is honestly starting to make a lot more sense now, but WOW, the learning curve is REAL
 
-![Screenshot 2026-10-17 at 4.26.41 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/5e8d3c99a317ca4000131480e1c923f7a9b9cbbbe01938cf70458950f3b814ae.png)
+![marble (1)](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/5e8d3c99a317ca4000131480e1c923f7a9b9cbbbe01938cf70458950f3b814ae.png)
 
 this is starting to look good
 crazy how I didn't even know what cad was when I started this
@@ -97,6 +97,6 @@ this is taking longer than expected...
 OHHH
 IN EXTRUDE I CAN MAKE IT A THIN THING WHICH WILL MAKE IT SO THAT THE LINE IS THICKER!!
 
-![Screenshot 2026-10-17 at 4.52.05 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/819132225ce1f7865b3be39ca6a9e4023fcd6812076b02398616a1f9ca2175e1.png)
+![lesgo](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/819132225ce1f7865b3be39ca6a9e4023fcd6812076b02398616a1f9ca2175e1.png)
 
 ngl the black is rly cool
